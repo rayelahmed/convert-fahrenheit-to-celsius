@@ -1,0 +1,14 @@
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh; /* Set the height of the body to the full viewport height */
+  margin: 0; /* Remove default margin */
+}
+
+.calc-temp {
+  background-color: lightcoral;
+  text-align: center; /* Optional: Center the content inside the div */
+  border: 1px solid red; /* Optional: Add a border for visibility */
+  padding: 20px; /* Optional: Add padding to the div */
+}
